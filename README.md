@@ -4,5 +4,5 @@
 
 
 
-Go to the [wiki](https://github.com/dylogaming/CombatComponent/wiki) for documentation
+Go to the [wiki](https://github.com/dylogaming/Footstep-Sound-Component/wiki) for documentation
 
